@@ -103,3 +103,7 @@ main{
     transform:translateY(101%);
     transition:transform 0.3s ease-in;
 }
+
+.movie:hover .overview{
+    transform:translateY(0)
+}
