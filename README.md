@@ -1,6 +1,6 @@
-# {SNYstreas}
-#### {A movie App}, {Current version}
-#### By **{Snaida Kbalika}**
+# SNYstreams
+#### A movie App, Current version
+#### By **Snaida Kbalika**
 ## Description
 {This is a movie app that enables movie lovers to serach, view and stream movies according to their liking. }
 ## Setup/Installation Requirements
