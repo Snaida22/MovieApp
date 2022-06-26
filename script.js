@@ -204,7 +204,7 @@ getMovies(API_URL);
 
 
 function showMovies(data) {
-    main.innerHTML = '';
+    main.innerHTML = '<p>&copy;2022 Snaida</p>';
 
     data.map(movie => {
         const {title, poster_path, vote_average, overview, id} = movie;
