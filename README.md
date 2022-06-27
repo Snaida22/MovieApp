@@ -1,11 +1,12 @@
 # SNYstreams
-#### A movie App, Current version
+#### A movie App,
 #### By **Snaida Kbalika**
 ## Description
 {This is a movie app that enables movie lovers to serach, view and stream movies according to their liking. }
 ## Setup/Installation Requirements
 * The user needs easily and accessible internet
 ## Live link
+https://snaida22.github.io/MovieApp/
 ## Known Bugs
 Accessing the API key, linking the images and paths of the movies. 
 ## Technologies Used
